@@ -1,2 +1,5 @@
 # githubpractice1
-practising github
+
+practising GitHub
+I'm PORNALAKSHMI from RVS ENGINEERING COLLEGE
+
